@@ -1,0 +1,28 @@
+name: visualbeast
+favicon: null
+layout_spectrum: 0.08945184899494052
+typography_spectrum: 0.8447308435570449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.44452400389127433
+  lightness: 0.9107434579636902
+  saturation: 0.6938913469202816
+  rhythmicContrast: 0.8740241292398423
+purpose: []
